@@ -39,12 +39,12 @@ Completed a security controls and compliance assessment evaluating:
 - Access Control
 - Data Protection
 - Security Documentation
-
 ## Career Goal
 
 Building practical cybersecurity experience while pursuing opportunities in:
 
-- IT Support
-- Cybersecurity Analyst (Entry Level)
+- Entry-Level Cybersecurity
 - Security Operations
+- IT Support
 - Technical Support
+- Governance, Risk, and Compliance (GRC)
