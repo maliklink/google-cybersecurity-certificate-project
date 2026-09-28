@@ -1,50 +1,24 @@
-# google-cybersecurity-certificate-project
-Cybersecurity portfolio showcasing risk assessments, security controls analysis, compliance reviews, and hands-on projects completed through the Google Cybersecurity Professional Certificate.
-# Malik Hylton | Cybersecurity Portfolio
+# Google Cybersecurity Certificate — Project Portfolio
 
-Welcome to my cybersecurity portfolio showcasing hands-on projects, security assessments, and documentation completed while earning the Google Cybersecurity Professional Certificate.
+I'm Malik Hylton, working through the **Google Cybersecurity Certificate** (courses 1–5 complete, course 6 in progress as of September 2026), and I'm targeting **GRC analyst roles** — governance, risk, and compliance.
 
-## About This Portfolio
-
-This repository documents my cybersecurity learning journey through practical assessments, security analysis, and risk management projects.
-
-## Certifications
-
-Google Cybersecurity Professional Certificate
-
-Completed:
-- Foundations of Cybersecurity
-- Manage Security Risks
+This repo holds my completed coursework labs, written up as portfolio projects: each one follows **Objective → Tools → Process → Findings → Recommendations** so you can see not just what I did, but how I think.
 
 ## Projects
 
-### Botium Toys Security Assessment
+| # | Project | One-line description |
+|---|---------|----------------------|
+| 01 | [Security risk assessment](01-security-risk-assessment/) | Assessed an organization's vulnerabilities and recommended hardening controls (MFA, password policy, port filtering) mapped to each finding. |
+| 02 | [Risk register](02-risk-register/) | Built a scored risk register for a bank — 5 risks rated on Likelihood × Severity with a prioritized remediation order. |
+| 03 | [Controls & compliance checklist](03-controls-compliance-checklist/) | Evaluated Botium Toys' security controls and PCI DSS / GDPR / SOC 2 compliance posture, with remediation recommendations. |
+| 04 | [Incident analysis: SYN flood](04-incident-analysis-syn-flood/) | Analyzed a packet capture to diagnose a SYN flood DoS attack — handshake mechanics, single-source attribution reasoning, and layered mitigations. Raw evidence in `supporting-logs/`. |
+| 05 | NIST CSF application * | Mapping course controls to NIST Cybersecurity Framework functions — write-up under final review. |
+| 06 | Access-control worksheet * | Least-privilege analysis and access decisions — write-up under final review. |
 
-Completed a security controls and compliance assessment evaluating:
+\* *Under final review — write-ups coming soon.*
 
-- Security controls
-- Risk identification
-- Access management
-- PCI DSS considerations
-- GDPR considerations
-- SOC principles
-- Security improvement recommendations
+## A note on honesty
 
-## Skills Demonstrated
+These are **coursework labs from the Google Cybersecurity Certificate**, not workplace engagements. The scenarios are course-provided; the analysis, scoring, and recommendations are my own work. Risk scores in particular are analyst judgment — I can defend the reasoning behind each one, which is the skill being demonstrated.
 
-- Risk Assessment
-- Security Controls
-- Governance, Risk, and Compliance (GRC)
-- Compliance Analysis
-- Access Control
-- Data Protection
-- Security Documentation
-## Career Goal
-
-Building practical cybersecurity experience while pursuing opportunities in:
-
-- Entry-Level Cybersecurity
-- Security Operations
-- IT Support
-- Technical Support
-- Governance, Risk, and Compliance (GRC)
+More projects will be added here as I progress through the certificate (incident investigation and detection modules are next).
