@@ -1,4 +1,4 @@
-# Google Cybersecurity Certificate — Project Portfolio
+# Google Cybersecurity Certificate - Project Portfolio
 
 I'm Malik Hylton, working through the **Google Cybersecurity Certificate** (courses 1–5 complete, course 6 in progress as of September 2026), and I'm targeting **GRC analyst roles** — governance, risk, and compliance.
 
