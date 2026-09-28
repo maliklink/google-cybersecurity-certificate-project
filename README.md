@@ -9,9 +9,9 @@ This repo holds my completed coursework labs, written up as portfolio projects: 
 | # | Project | One-line description |
 |---|---------|----------------------|
 | 01 | [Security risk assessment](01-security-risk-assessment/) | Assessed an organization's vulnerabilities and recommended hardening controls (MFA, password policy, port filtering) mapped to each finding. |
-| 02 | [Risk register](02-risk-register/) | Built a scored risk register for a bank — 5 risks rated on Likelihood × Severity with a prioritized remediation order. |
+| 02 | [Risk register](02-risk-register/) | Built a scored risk register for a bank - 5 risks rated on Likelihood × Severity with a prioritized remediation order. |
 | 03 | [Controls & compliance checklist](03-controls-compliance-checklist/) | Evaluated Botium Toys' security controls and PCI DSS / GDPR / SOC 2 compliance posture, with remediation recommendations. |
-| 04 | [Incident analysis: SYN flood](04-incident-analysis-syn-flood/) | Analyzed a packet capture to diagnose a SYN flood DoS attack — handshake mechanics, single-source attribution reasoning, and layered mitigations. Raw evidence in `supporting-logs/`. |
+| 04 | [Incident analysis: SYN flood](04-incident-analysis-syn-flood/) | Analyzed a packet capture to diagnose a SYN flood DoS attack - handshake mechanics, single-source attribution reasoning, and layered mitigations. Raw evidence in `supporting-logs/`. |
 
 
 
